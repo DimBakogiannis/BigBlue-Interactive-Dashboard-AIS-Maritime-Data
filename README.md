@@ -17,6 +17,10 @@ AIS_UNACORN_Seatracks_past12-hours Dataset needs a lot of Data Cleaning & Prepro
 - Create a Plot to observe the type of the vessels
 - Create an interactive dashboard using Dash
 ### Conclusion✅🏁:
+The end-users of this dashboard could be port authorities, maritime traffic services, and shipping companies. Usage:
+- Real-time Monitoring
+- Security Surveillance, incident investigation
+- User Friendly for more traditional personnel for collaboration and reporting
+- Useful for data analysis with noon reports
 
-  
-All the insights that came from this dataset are listed in the Notebook.
+
