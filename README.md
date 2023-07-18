@@ -1,6 +1,6 @@
-# BigBlue-Interactive_Dashboard-AIS-Maritime-Data
+# BigBlue-Interactive Dashboard AIS-Maritime-Data
 Repository for the 2nd project of an Interactive Dashboard during my studies in Big Blue Data Academy Data Science & Machine Learning Bootcamp 2023.
-Objective of this project was to build an iteractive dashboard using plotly and dash with Python.
+The objective of this project was to build an interactive dashboard using plotly and dash with Python.
 Having a naval engineering background, I decided to create an interactive dashboard project to visualize AIS Maritime Data.
 
 #### Dataset used: [AIS Maritime Data 🛳️](https://www.kaggle.com/datasets/aswinjose/ais-maritime-data)
