@@ -11,7 +11,7 @@ AIS_UNACORN_Seatracks_past12-hours Dataset needs a lot of Data Cleaning & Prepro
 - Apply function to clean the data
 - Create hour column for slider
 
-#### EDA📊🕵🏻:
+### EDA📊🕵🏻:
 - Create a Map to visualize Vessels
 - Create a Plot to observe the navigation status of the vessels
 - Create a Plot to observe the type of the vessels
@@ -23,4 +23,7 @@ The end-users of this dashboard could be port authorities, maritime traffic serv
 - User Friendly for more traditional personnel for collaboration and reporting
 - Useful for data analysis with noon reports
 
+### Snapshots of the Dashboard 📸
+![ais maritime data 1](https://github.com/DimBakogiannis/BigBlue-Interactive-Dashboard-AIS-Maritime-Data/assets/97474620/90156222-3564-4514-be33-e430a4a3a789)
+![ais maritime data 2](https://github.com/DimBakogiannis/BigBlue-Interactive-Dashboard-AIS-Maritime-Data/assets/97474620/7bbcada1-83f4-4bf1-8aa6-38e0b19eec06)
 
