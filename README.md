@@ -23,7 +23,9 @@ The end-users of this dashboard could be port authorities, maritime traffic serv
 - User Friendly for more traditional personnel for collaboration and reporting
 - Useful for data analysis with noon reports
 
+### Dashboard Demo 🎞️
+### [Click here to watch a demo of the interactive dashboard!](https://vimeo.com/manage/videos/877296169)
+
 ### Snapshots of the Dashboard 📸
 ![ais maritime data 1](https://github.com/DimBakogiannis/BigBlue-Interactive-Dashboard-AIS-Maritime-Data/assets/97474620/90156222-3564-4514-be33-e430a4a3a789)
 ![ais maritime data 2](https://github.com/DimBakogiannis/BigBlue-Interactive-Dashboard-AIS-Maritime-Data/assets/97474620/7bbcada1-83f4-4bf1-8aa6-38e0b19eec06)
-
